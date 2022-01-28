@@ -70,9 +70,7 @@ class Maintenance extends Component {
                           <h5 className="font-size-15 text-uppercase mt-4">Do you need Support?</h5>
                           <p className="text-muted mb-0">
                             If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embar..
-                            <Link to="#" className="text-decoration-underline">
-                              no-reply@domain.com
-                            </Link>
+                           
                           </p>
                         </div>
                       </div>
