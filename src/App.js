@@ -36,7 +36,7 @@ class Maintenance extends Component {
 
                           <h5 className="font-size-15 text-uppercase mt-4">Why is the Site Down?</h5>
                           <p className="text-muted mb-0">
-                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
+                            There are many variations of passages of Vercel available, but the majority have suffered alteration.
                           </p>
                         </div>
                       </div>
@@ -66,7 +66,7 @@ class Maintenance extends Component {
                           </div>
                           <h5 className="font-size-15 text-uppercase mt-4">Do you need Support?</h5>
                           <p className="text-muted mb-0">
-                            If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embar..
+                            If you are going to use a passage of Vercel, you need to be sure there isn't anything embar..
                            
                           </p>
                         </div>
