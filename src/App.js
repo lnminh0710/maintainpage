@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //Import Logo
 import bg from './maintenance-bg.png';
 
 class Maintenance extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     return (
       <React.Fragment>
